@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\Cooper\\Documents\\Visual Studio 2019\\Projects\\Teams²\\Teams²\\Teams².vbproj": {}
+  },
+  "projects": {
+    "D:\\Users\\Cooper\\Documents\\Visual Studio 2019\\Projects\\Teams²\\Teams²\\Teams².vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Cooper\\Documents\\Visual Studio 2019\\Projects\\Teams²\\Teams²\\Teams².vbproj",
+        "projectName": "Teams²",
+        "projectPath": "D:\\Users\\Cooper\\Documents\\Visual Studio 2019\\Projects\\Teams²\\Teams²\\Teams².vbproj",
+        "packagesPath": "C:\\Users\\Cooper\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Cooper\\Documents\\Visual Studio 2019\\Projects\\Teams²\\Teams²\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Cooper\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Toolkit.Forms.UI.Controls.WebView": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "uap10.0.18362"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "di/2QTTRNo6qXWC3Hd8uMHDiQFIXtCHr0LJPNCiTJMM6P2CTwXm+oeh6qDrxz3QF0YHBytceV60Ec3/2zaPluQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Cooper\\Documents\\Visual Studio 2019\\Projects\\Teams²\\Teams²\\Teams².vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cooper\\.nuget\\packages\\microsoft.toolkit.forms.ui.controls.webview\\6.0.1\\microsoft.toolkit.forms.ui.controls.webview.6.0.1.nupkg.sha512",
+    "C:\\Users\\Cooper\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.18362.2005\\microsoft.windows.sdk.contracts.10.0.18362.2005.nupkg.sha512",
+    "C:\\Users\\Cooper\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\Cooper\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
